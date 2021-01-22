@@ -1,0 +1,10 @@
+*/migrations
+migrations/*
+__pycache__/*
+*/__pycache__
+*.pyc
+environment
+environment_local
+environment_testing
+.env
+vars.cmd
